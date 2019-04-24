@@ -1,0 +1,13 @@
+Consider that you have found a defect in the form for the previous exercise. Create a bug report for it.
+
+Title: Signup page can't accept to create an account when using an email without @
+When creating an account there must exists a validation for email field to contain the "@" character. Without this user can't reset his password
+Steps to reproduce:
+
+1. GO to signup page
+2. Complete all the fields
+2.1 When completing the email field don't use @
+3. Press Signup
+
+Expected Result: A notification appears: Please insert a valid email
+Actual result: I can create the account.

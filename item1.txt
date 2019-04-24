@@ -1,0 +1,2 @@
+What is regression? What is retestinng?
+Regression is when you something in code has changed will not affect the functionality of the program and retesting is when a test has failed if you test again after fixing will pass.   ff

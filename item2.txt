@@ -1,0 +1,5 @@
+What is the relationship between the following: error, bug, defect, fault, failure.
+Fault is caused by human
+Error appears after a defect exists
+Defect and Bug are issues during SDLC
+A failure is a wrong written app.

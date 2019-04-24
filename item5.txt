@@ -1,0 +1,15 @@
+In the images folder you have a login form. Create Test Cases for the given form.
+
+Please state the testing types(functional, non-functional, black box, white box, design technique) for each TC created.
+
+1. Verify Signup feature
+2. Verify that login page contains elements like Email, Password, Forgot your password, Sign in button, 
+3. Verify if password letters are hidden
+4. Verify if I can login without entering a password/email
+5. Verify if I can login with Facebook, Google plus and linked
+6. Verify what happens when all fields of signup are completed after refresh
+7. Verify If I can recover my password
+8. Verify the responsiveness of the app.
+9. Complete all the fields with special letters and try to make an account on signup page
+10. Try to make an account only with 3 characters for name surname and pass and correct email
+11. Try to insert an email without @.
