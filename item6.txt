@@ -10,4 +10,4 @@ Steps to reproduce:
 3. Press Signup
 
 Expected Result: A notification appears: Please insert a valid email
-Actual result: I can create the account.
+Actual result: I can create the account.fffff
